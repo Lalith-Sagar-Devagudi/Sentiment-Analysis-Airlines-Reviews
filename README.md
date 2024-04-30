@@ -50,3 +50,4 @@ Sentiment polarity quantifies the emotional content of the text, indicating whet
 
 ![vaderanalysis](https://github.com/Lalith-Sagar-Devagudi/Sentiment-Analysis-Airlines-Reviews/assets/40135491/6b790db2-b70a-4d48-9be7-437cd4fe3820)
 
+![donut](https://github.com/Lalith-Sagar-Devagudi/Sentiment-Analysis-Airlines-Reviews/assets/40135491/dc6333c4-4436-4f70-ab4f-3ffc97303c30)
